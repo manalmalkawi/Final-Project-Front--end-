@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Final-Project-Front--end-/static/css/main.a95fb323.css",
+    "main.js": "/Final-Project-Front--end-/static/js/main.60a21619.js",
+    "static/js/453.96453769.chunk.js": "/Final-Project-Front--end-/static/js/453.96453769.chunk.js",
+    "static/media/envato_market.svg": "/Final-Project-Front--end-/static/media/envato_market.0e9c65c14962228f334f.svg",
+    "static/media/slick.svg": "/Final-Project-Front--end-/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Final-Project-Front--end-/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Final-Project-Front--end-/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/Final-Project-Front--end-/index.html",
+    "static/media/slick.woff": "/Final-Project-Front--end-/static/media/slick.295183786cd8a1389865.woff",
+    "main.a95fb323.css.map": "/Final-Project-Front--end-/static/css/main.a95fb323.css.map",
+    "main.60a21619.js.map": "/Final-Project-Front--end-/static/js/main.60a21619.js.map",
+    "453.96453769.chunk.js.map": "/Final-Project-Front--end-/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95fb323.css",
+    "static/js/main.60a21619.js"
+  ]
+}
